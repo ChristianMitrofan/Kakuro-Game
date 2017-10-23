@@ -21,5 +21,3 @@ For the GUI I used tkinder.
 *Grid for layout management of the entry and button widgets
 
 *Canvas widget for the victory screen
-
-I used py2exe to turn the program to an executable
